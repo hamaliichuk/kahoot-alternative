@@ -58,5 +58,5 @@ We welcome contributions from the community! If you'd like to contribute, please
 5. Create a new Pull Request.
 
 ## License
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) 
 
